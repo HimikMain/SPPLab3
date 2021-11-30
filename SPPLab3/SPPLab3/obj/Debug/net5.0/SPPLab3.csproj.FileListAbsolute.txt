@@ -1,0 +1,16 @@
+C:\Labs\SPP\SPPLab3\SPPLab3\bin\Debug\net5.0\SPPLab3.exe
+C:\Labs\SPP\SPPLab3\SPPLab3\bin\Debug\net5.0\SPPLab3.deps.json
+C:\Labs\SPP\SPPLab3\SPPLab3\bin\Debug\net5.0\SPPLab3.runtimeconfig.json
+C:\Labs\SPP\SPPLab3\SPPLab3\bin\Debug\net5.0\SPPLab3.runtimeconfig.dev.json
+C:\Labs\SPP\SPPLab3\SPPLab3\bin\Debug\net5.0\SPPLab3.dll
+C:\Labs\SPP\SPPLab3\SPPLab3\bin\Debug\net5.0\ref\SPPLab3.dll
+C:\Labs\SPP\SPPLab3\SPPLab3\bin\Debug\net5.0\SPPLab3.pdb
+C:\Labs\SPP\SPPLab3\SPPLab3\obj\Debug\net5.0\SPPLab3.csproj.AssemblyReference.cache
+C:\Labs\SPP\SPPLab3\SPPLab3\obj\Debug\net5.0\SPPLab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Labs\SPP\SPPLab3\SPPLab3\obj\Debug\net5.0\SPPLab3.AssemblyInfoInputs.cache
+C:\Labs\SPP\SPPLab3\SPPLab3\obj\Debug\net5.0\SPPLab3.AssemblyInfo.cs
+C:\Labs\SPP\SPPLab3\SPPLab3\obj\Debug\net5.0\SPPLab3.csproj.CoreCompileInputs.cache
+C:\Labs\SPP\SPPLab3\SPPLab3\obj\Debug\net5.0\SPPLab3.dll
+C:\Labs\SPP\SPPLab3\SPPLab3\obj\Debug\net5.0\ref\SPPLab3.dll
+C:\Labs\SPP\SPPLab3\SPPLab3\obj\Debug\net5.0\SPPLab3.pdb
+C:\Labs\SPP\SPPLab3\SPPLab3\obj\Debug\net5.0\SPPLab3.genruntimeconfig.cache
